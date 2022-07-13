@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_animate.xml" value="0.182518115942029" />
+        <entry key="app/src/main/res/layout/activity_content_provider.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_service.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_veiw_pager.xml" value="0.182518115942029" />
         <entry key="app/src/main/res/layout/activity_view_pager.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_recyclerview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/translate_anim.xml" value="0.182518115942029" />
         <entry key="app/src/main/res/layout/viewpager1.xml" value="0.1" />
         <entry key="app/src/main/res/layout/viewpager2.xml" value="0.1" />
         <entry key="app/src/main/res/layout/viewpager3.xml" value="0.1" />
